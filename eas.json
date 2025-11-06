@@ -17,13 +17,6 @@
       "android": {
         "buildType": "apk",
         "credentialsSource": "remote"
-      },
-      "env": {
-        "EXPO_PUBLIC_FIREBASE_PROJECT_NUMBER": "345963386798",
-        "EXPO_PUBLIC_FIREBASE_PROJECT_ID": "palliativecare-e9f97",
-        "EXPO_PUBLIC_FIREBASE_STORAGE_BUCKET": "palliativecare-e9f97.firebasestorage.app",
-        "EXPO_PUBLIC_FIREBASE_APP_ID": "1:345963386798:android:10ff7402027ee786091a3f",
-        "EXPO_PUBLIC_FIREBASE_API_KEY": "AIzaSyCyAxQ6MmWK-B-I9ZqoGwl-wk1vstNd56g"
       }
     },
     "production": {
